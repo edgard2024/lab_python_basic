@@ -1,0 +1,2 @@
+"""Operaciones comunes"""
+"""Operador modulo:%"""
